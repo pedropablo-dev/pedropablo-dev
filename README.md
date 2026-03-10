@@ -1,16 +1,15 @@
-## Hi there 👋
+# Pedro Pablo Miras | AIA - Aplica la IA
 
-<!--
-**pedropablo-dev/pedropablo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI-Native Developer & Strategic Consultant
+Especializado en la creación acelerada de herramientas mediante **Prompt Engineering** y **Vibecoding**. Mi valor reside en la arquitectura de soluciones y la viabilidad técnica de herramientas impulsadas por IA, utilizando el lenguaje natural como motor de desarrollo.
 
-Here are some ideas to get you started:
+## Active Projects [@aplica-la-ia](https://github.com/aplica-la-ia)
+| Proyecto | Estado | Impacto Técnico |
+| :--- | :--- | :--- |
+| **[aia-scribe](https://github.com/aplica-la-ia/aia-scribe)** | Live | Transcripción local con aceleración GPU (Whisper). |
+| **[aia-studio-lite](https://github.com/aplica-la-ia/aia-studio-lite)** | Beta | Orquestación de video y metadatos para post-producción. |
+| **[aia-self-teleprompter](https://github.com/aplica-la-ia/aia-self-teleprompter)** | Live | Solución PWA offline con control gestual determinista. |
+| **[aia-dev-caddy](https://github.com/aplica-la-ia/aia-dev-caddy)** | MVP | Gestión parametrizada de comandos CLI y prompts para LLMs. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecta
+- [YouTube - Aplica la IA](https://youtube.com/@Aplica_la_IA)
