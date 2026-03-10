@@ -1,4 +1,4 @@
-# Pedro Pablo Miras | AIA - Aplica la IA
+# Pedro Pablo Miras | AIA
 
 ## AI-Native Developer
 Especializado en la creación acelerada de herramientas mediante **Prompt Engineering** y **Vibecoding**. Mi valor reside en la arquitectura de soluciones y la viabilidad técnica de herramientas impulsadas por IA, utilizando el lenguaje natural como motor de desarrollo.
